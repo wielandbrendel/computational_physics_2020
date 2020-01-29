@@ -1,2 +1,1 @@
-# computational_physics_2020
-Short hands-on introduction to ML for physicists.
+# Materials for two short hands-on introduction lectures to Machine Learning
